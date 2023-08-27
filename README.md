@@ -1,8 +1,8 @@
-# Bookstore Management System
+# Bookstore Management System Using SQL
 
 ## Description
 
-The Bookstore Management System is a database-driven application designed to manage various aspects of a bookstore chain. It includes features for tracking book inventory, managing employees and their positions, handling cafe items, and scheduling shifts. This system facilitates efficient management of book sales, cafe sales, employee schedules, and store operations.
+This project is a database-driven application designed to manage various aspects of a bookstore chain using SQL. It includes features for tracking book inventory, managing employees and their positions, handling cafe items, and scheduling shifts. This system facilitates efficient management of book sales, cafe sales, employee schedules, and store operations.
 
 ## Problem Statement
 
@@ -13,6 +13,11 @@ Managing a bookstore chain involves several complex tasks, such as keeping track
 - Database Management System: MySQL
 - Programming Language: SQL
 - Version Control: Git
+
+## Repository Structure
+
+- Database Structure: Folder containing all the data and tables that form our database
+- Database Implementation: Folder containing SQL queries to explore the functionality of the Bookstore Management System.
 
 ## Approach
 
