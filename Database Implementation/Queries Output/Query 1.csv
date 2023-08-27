@@ -1,0 +1,3 @@
+ISBN,Price,Publisher,Customer_rating,Title,Pages,Publication_date,Sales_rank,authorFName,authorLName,category
+3912645798383,54,Pearson,80,"Fundamentals of Database System",902,2016-02-02,02,Ramez,Elmasri,Education
+3912645798383,54,Pearson,80,"Fundamentals of Database System",902,2016-02-02,02,Shamkant,Navathe,Education

@@ -1,0 +1,25 @@
+ssn,FName,LName,Email,Date_of_birth,storeID,Date_of_hire,phoneNumber,"Store ID","Phone Number",address,position
+4428412188,Marcie,Akhtar,Marcie.Akhtar@gmail.com,1969-01-09,20957,2021-02-07,2574691505,20957,5617546768,"7051 Church St Hanover Park, Illinois(IL), 60133",storage
+4428412188,Marcie,Akhtar,Marcie.Akhtar@gmail.com,1969-01-09,20957,2021-02-07,2574691505,20957,5617546768,"7051 Church St Hanover Park, Illinois(IL), 60133",director
+6011351272,Zander,Hartley,Zander.Hartley@gmail.com,1995-06-20,51120,2019-04-24,5327996443,51120,9025068570,"1010 W San Ysidro Blvd San Ysidro, California(CA), 92173",storage
+6011351272,Zander,Hartley,Zander.Hartley@gmail.com,1995-06-20,51120,2019-04-24,5327996443,51120,9025068570,"1010 W San Ysidro Blvd San Ysidro, California(CA), 92173",manager
+6011351272,Zander,Hartley,Zander.Hartley@gmail.com,1995-06-20,51120,2019-04-24,5327996443,51120,9025068570,"1010 W San Ysidro Blvd San Ysidro, California(CA), 92173",recepcionist
+0034176481,August,Mcarthur,August.Mcarthur@gmail.com,2000-02-14,34782,2021-06-12,2195426114,34782,2456228514,"660 Burroughs Ave Collinsville, Illinois(IL), 62234",manager
+0034176481,August,Mcarthur,August.Mcarthur@gmail.com,2000-02-14,34782,2021-06-12,2195426114,34782,2456228514,"660 Burroughs Ave Collinsville, Illinois(IL), 62234",recepcionist
+0034176481,August,Mcarthur,August.Mcarthur@gmail.com,2000-02-14,34782,2021-06-12,2195426114,34782,2456228514,"660 Burroughs Ave Collinsville, Illinois(IL), 62234",storage
+0429218286,Sue,Mcloughlin,Sue.Mcloughlin@gmail.com,1973-12-11,20957,2021-05-18,7942679834,20957,5617546768,"7051 Church St Hanover Park, Illinois(IL), 60133",recepcionist
+7280426124,Amal,Murillo,Amal.Murillo@gmail.com,1978-11-03,34782,2021-01-18,9155468523,34782,2456228514,"660 Burroughs Ave Collinsville, Illinois(IL), 62234",storage
+7280426124,Amal,Murillo,Amal.Murillo@gmail.com,1978-11-03,34782,2021-01-18,9155468523,34782,2456228514,"660 Burroughs Ave Collinsville, Illinois(IL), 62234",manager
+9636105673,Tiarna,Newman,Tiarna.Newman@gmail.com,2001-08-03,20957,2022-07-14,8130980610,20957,5617546768,"7051 Church St Hanover Park, Illinois(IL), 60133",recepcionist
+3084954601,Sumayya,Olson,Sumayya.Olson@gmail.com,1992-03-17,51120,2021-11-16,2150410333,51120,9025068570,"1010 W San Ysidro Blvd San Ysidro, California(CA), 92173",director
+3084954601,Sumayya,Olson,Sumayya.Olson@gmail.com,1992-03-17,51120,2021-11-16,2150410333,51120,9025068570,"1010 W San Ysidro Blvd San Ysidro, California(CA), 92173",manager
+3084954601,Sumayya,Olson,Sumayya.Olson@gmail.com,1992-03-17,51120,2021-11-16,2150410333,51120,9025068570,"1010 W San Ysidro Blvd San Ysidro, California(CA), 92173",storage
+2179057248,Courteney,Pearson,Courteney.Pearson@gmail.com,1987-05-21,34782,2020-01-11,6712401532,34782,2456228514,"660 Burroughs Ave Collinsville, Illinois(IL), 62234",manager
+2179057248,Courteney,Pearson,Courteney.Pearson@gmail.com,1987-05-21,34782,2020-01-11,6712401532,34782,2456228514,"660 Burroughs Ave Collinsville, Illinois(IL), 62234",storage
+6478002207,Derren,Thatcher,Derren.Thatcher@gmail.com,1987-10-23,89152,2022-12-22,4307326395,89152,8614066372,"29 Moseley Ave Needham, Massachusetts(MA), 02492",director
+6478002207,Derren,Thatcher,Derren.Thatcher@gmail.com,1987-10-23,89152,2022-12-22,4307326395,89152,8614066372,"29 Moseley Ave Needham, Massachusetts(MA), 02492",manager
+4665695482,Kohen,Valenzuela,Kohen.Valenzuela@gmail.com,2000-07-07,89152,2021-10-05,3417933815,89152,8614066372,"29 Moseley Ave Needham, Massachusetts(MA), 02492",director
+3071506519,Simeon,Wolfe,Simeon.Wolfe@gmail.com,1990-08-15,89152,2020-07-01,1555171795,89152,8614066372,"29 Moseley Ave Needham, Massachusetts(MA), 02492",director
+3071506519,Simeon,Wolfe,Simeon.Wolfe@gmail.com,1990-08-15,89152,2020-07-01,1555171795,89152,8614066372,"29 Moseley Ave Needham, Massachusetts(MA), 02492",recepcionist
+4611455254,Roxanne,Wright,Roxanne.Wright@gmail.com,1996-06-12,51120,2019-09-08,3411449497,51120,9025068570,"1010 W San Ysidro Blvd San Ysidro, California(CA), 92173",storage
+4611455254,Roxanne,Wright,Roxanne.Wright@gmail.com,1996-06-12,51120,2019-09-08,3411449497,51120,9025068570,"1010 W San Ysidro Blvd San Ysidro, California(CA), 92173",recepcionist
