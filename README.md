@@ -10,10 +10,9 @@ Managing a bookstore chain involves several complex tasks, such as keeping track
 
 ## Tools and Technologies
 
-- Database Management System: [Specify the DBMS you used, e.g., MySQL]
-- Programming Language: [Specify the programming language you used, e.g., SQL]
-- Version Control: [Specify the version control system you used, e.g., Git]
-- Libraries/Frameworks: [Specify any relevant libraries or frameworks, e.g., JDBC for Java]
+- Database Management System: MySQL
+- Programming Language: SQL
+- Version Control: [Git]
 
 ## Approach
 
