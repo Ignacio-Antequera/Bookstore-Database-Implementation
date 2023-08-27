@@ -18,8 +18,9 @@ Managing a bookstore chain involves several complex tasks, such as keeping track
 
 ## Repository Structure
 
-- Database Structure: Folder containing all the data and tables that form our database
+- Database Structure: Folder containing all the data and tables that form our database.
 - Database Implementation: Folder containing SQL queries to explore the functionality of the Bookstore Management System.
+- ER Diagrams: Visually representation of tables and the relationships between them.
 
 ## Approach
 
