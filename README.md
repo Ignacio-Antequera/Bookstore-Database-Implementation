@@ -12,7 +12,7 @@ Managing a bookstore chain involves several complex tasks, such as keeping track
 
 - Database Management System: MySQL
 - Programming Language: SQL
-- Version Control: [Git]
+- Version Control: Git
 
 ## Approach
 
